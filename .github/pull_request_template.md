@@ -3,5 +3,5 @@ Please always provide the [GitHub issue(s)](../issues) your PR is for, as well a
 Fix #<gh-issue-id>
 
 Test URLs:
-- Before: https://main--aem-psi-e2e--bisswanger.hlx.live/
-- After: https://<branch>--aem-psi-e2e--bisswanger.hlx.live/
+- Before: https://main--aem-psi-e2e--adobe.hlx.live/
+- After: https://<branch>--aem-psi-e2e--adobe.hlx.live/

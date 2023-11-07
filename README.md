@@ -2,8 +2,8 @@
 Sample AEM Edge Delivery page for automated PSI service end-2-end tests
 
 ## Environments
-- Preview: https://main--aem-psi-e2e--bisswanger.hlx.page/
-- Live: https://main--aem-psi-e2e--bisswanger.hlx.live/
+- Preview: https://main--aem-psi-e2e--adobe.hlx.page/
+- Live: https://main--aem-psi-e2e--adobe.hlx.live/
 
 ## Installation
 
